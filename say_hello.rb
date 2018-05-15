@@ -1,3 +1,3 @@
-def say_hello (name=Kathy)
-  Hello #{name}
+def say_hello ("Kathy")
+  Hello "Kathy"
 end
