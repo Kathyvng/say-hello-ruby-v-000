@@ -1,2 +1,4 @@
-say_hello ("Kathy")
-  
+def say_hello ("Kathy")
+  puts "Hello Kathy"
+end
+
