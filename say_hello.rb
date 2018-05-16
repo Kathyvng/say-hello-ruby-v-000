@@ -1,1 +1,2 @@
-say_hello ("Kathy")
+def say_hello ("Kathy")
+end
